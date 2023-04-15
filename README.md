@@ -1,4 +1,4 @@
-# weather2
+# weather
 
 A new Flutter project.
 
